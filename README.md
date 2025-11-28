@@ -72,11 +72,13 @@ Test Deleting: Select option 3. Delete "Sagar" and use option 4 to confirm the l
 
 
 Screenshots
-(Note: Replace the text below with actual screenshots of your running code to impress the evaluator)
 
-1. Main Menu & Adding a Student
+1.<img width="686" height="657" alt="screenshot(1) py" src="https://github.com/user-attachments/assets/b31ecf6c-e13b-4896-a36e-8f69a8b9dad5" />
 
-2. Error Handling (Input Validation)
+
+
+2.<img width="683" height="496" alt="Screenshot(2) py" src="https://github.com/user-attachments/assets/3fc32ba6-92bc-4e99-92be-f24e83841d13" />
+
    
 
 Future Improvements
