@@ -45,7 +45,7 @@ Download the Project: Download the project folder or clone the repository.
 
 Bash
 
-git clone <repository_url>
+git clone https://github.com/Codeninjapy/Grade_management.git
 Navigate to the Directory: Open your terminal or command prompt and change the directory to the project folder.
 
 Bash
